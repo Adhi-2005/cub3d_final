@@ -3,16 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   keys.h                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: esimpson <esimpson@student.42.fr>          +#+  +:+       +#+        */
+/*   By: adshafee <adshafee@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/07 15:27:25 by esimpson          #+#    #+#             */
-/*   Updated: 2024/11/07 15:27:29 by esimpson         ###   ########.fr       */
+/*   Updated: 2024/11/13 00:12:31 by adshafee         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef KEYCODES_H
-
-# define KEYCODES_H
+#ifndef KEYS_H
+# define KEYS_H
 
 # define KEY_ESC 53
 # define KEY_W 13
